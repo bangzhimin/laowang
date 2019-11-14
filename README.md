@@ -99,10 +99,10 @@ public class Main {
 }
 ```
 # 流程图
-![]()
+![image](https://github.com/bangzhimin/laowang/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 # 运行结果
-![]()
+![image](https://github.com/bangzhimin/laowang/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 
 # 实验感想
 通过本次Java编程实验课，让我基本掌握str数组字符串功能实现,基本掌握了事件编程的方法,以及网上查阅相关资源的方法。
